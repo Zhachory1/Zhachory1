@@ -4,6 +4,7 @@
       News field.
 - 🌱 I’m currently learning Two tower approaches to embed multiple types of entities and better ML clustering algorithms
 - 💞️ I’m looking to collaborate on anything that helps people. :)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/zhach)
 - 📫 How to reach me:
     - Website: zhach.me
 
